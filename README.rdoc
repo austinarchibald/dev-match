@@ -1,29 +1,7 @@
 == README
 
-Coder Manual Project Application
-Subscription-based web application
-http://codermanual.com
+This application was built with the help of Coder Manual bootcamp [codermanual.com].
 
-Things you may want to cover:
+This example is called Dev Match, which allows developers, investors, and entrepreneurs to meet in an online community. It features two tiers of users: free and paid, the latter of which integrates with the Stripe API to accept payments. Free Users can create profiles, upload avatars, and view other members of the community while paid users can view contact information that is hidden behind a paywall.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+It was an exercise to teach the many facets of ruby on rails development as well as api integration.
