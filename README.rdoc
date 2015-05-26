@@ -6,4 +6,4 @@ This example is called Dev Match, which allows developers, investors, and entrep
 
 It was an exercise to teach the many facets of ruby on rails development as well as api integration.
 
-The site can be viewed live at dev-match.herokuapp.com. Stripe is in test mode so no real transactions will take place. Just enter in a fake credit card number to test the site.
+The site can be viewed live at http://dev-match.herokuapp.com. Stripe is in test mode so no real transactions will take place. Just enter in a fake credit card number to test the site.
