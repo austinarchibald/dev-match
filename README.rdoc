@@ -1,7 +1,9 @@
 == README
 
-This application was built with the help of Coder Manual bootcamp [codermanual.com].
+This application was built with the help of Coder Manual bootcamp [http://codermanual.com].
 
 This example is called Dev Match, which allows developers, investors, and entrepreneurs to meet in an online community. It features two tiers of users: free and paid, the latter of which integrates with the Stripe API to accept payments. Free Users can create profiles, upload avatars, and view other members of the community while paid users can view contact information that is hidden behind a paywall.
 
 It was an exercise to teach the many facets of ruby on rails development as well as api integration.
+
+The site can be viewed live at dev-match.herokuapp.com. Stripe is in test mode so no real transactions will take place. Just enter in a fake credit card number to test the site.
